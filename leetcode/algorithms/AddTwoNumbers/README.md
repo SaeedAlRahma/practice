@@ -1,5 +1,5 @@
 # Add Two Numbers
-Difficulty: Easy
+Difficulty: Medium
 
 Source: Leetcode
 
