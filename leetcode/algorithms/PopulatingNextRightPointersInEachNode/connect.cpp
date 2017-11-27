@@ -11,6 +11,7 @@ class Solution {
 public:
     void connect(TreeLinkNode *root) {  
         // connectRecursively(root); // Recursive solution. Space O(n), Time O(n)
+        // return ;
         
         // Solution: Space O(1), Time O(n)
         if(root == NULL)
