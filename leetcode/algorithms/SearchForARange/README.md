@@ -1,5 +1,5 @@
 # Search for a Range
-Dificulty: Medium
+Difficulty: Medium
 
 Source: Leetcode
 
