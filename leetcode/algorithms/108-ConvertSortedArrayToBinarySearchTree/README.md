@@ -1,6 +1,6 @@
-# Convert Sorted Array to Binary Search Tree
-Difficulty: Easy
+# Binary Tree Right Side View
+Difficulty: Medium
 
 Source: Leetcode
 
-Link: [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
+Link: [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)
