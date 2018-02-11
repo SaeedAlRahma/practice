@@ -1,4 +1,4 @@
-# Redundant Connection
+# 684. Redundant Connection
 Difficult: Medium
 
 Source: Leetcode
